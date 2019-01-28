@@ -6,6 +6,7 @@ pipeline {
     stage('Checkout') {
       steps {
 	      echo "测试11112222"
+	      echo "testceshi fenzhi 1"
       }
     }
     stage('CI') {
