@@ -13,6 +13,7 @@ pipeline {
         stage('Build') {
           steps {
             echo "CI Build...CI Build...CI Build...CI Build...CI Build...CI Build...CI Build11..." 
+            echo "test/v3.2~~~~~3.2"
           }
         }
         stage('Test1') {
