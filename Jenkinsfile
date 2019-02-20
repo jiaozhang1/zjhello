@@ -5,7 +5,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-	      echo "测试11112222"
+	      echo "测试1111222ererrer2"
 	      echo "testceshi fenzhi 1"
       }
     }
